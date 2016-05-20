@@ -1,0 +1,280 @@
+{
+    "linkText": "Index page for http://gocardless.com",
+    "linkUrl": "",
+    "childlinks": [
+        {
+            "linkText": "GoCardless",
+            "linkUrl": "/",
+            "childlinks": [
+                {
+                    "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                    "linkUrl": "/5b333e372b1b3c34383a293f373e282875383436"
+                }
+            ],
+            "assets": [
+                "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+                "/images/logos/pro-logos@2x.png",
+                "/images/logos/funding-circle-logo-white.png",
+                "/images/flags/GB-flag-icon@2x.png",
+                "/images/flags/AU-flag-icon@2x.png",
+                "/images/flags/BE-flag-icon@2x.png",
+                "/images/flags/BE-flag-icon@2x.png",
+                "/images/flags/BR-flag-icon@2x.png",
+                "/images/flags/CA-flag-icon@2x.png",
+                "/images/flags/DE-flag-icon@2x.png",
+                "/images/flags/ES-flag-icon@2x.png",
+                "/images/flags/EU-flag-icon@2x.png",
+                "/images/flags/FR-flag-icon@2x.png",
+                "/images/flags/IE-flag-icon@2x.png",
+                "/images/flags/NL-flag-icon@2x.png",
+                "/images/flags/NZ-flag-icon@2x.png",
+                "/images/flags/SE-flag-icon@2x.png",
+                "/images/flags/US-flag-icon@2x.png",
+                "/images/flags/GB-flag-icon@2x.png",
+                "/bundle/main-eb80a0890c96194c1536.js"
+            ]
+        },
+        {
+            "linkText": "Guides",
+            "linkUrl": "/guides",
+            "childlinks": [
+                {
+                    "linkText": "",
+                    "linkUrl": "/recurring-payments",
+                    "childlinks": [
+                        {
+                            "linkText": "Overview",
+                            "linkUrl": "/overview"
+                        },
+                        {
+                            "linkText": "Features",
+                            "linkUrl": "/features",
+                            "childlinks": [
+                                {
+                                    "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                                    "linkUrl": "/ed8588819dad8a828e8c9f8981889e9ec38e8280"
+                                }
+                            ],
+                            "assets": [
+                                "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+                                "/images/features/pro-dashboard-overview.png",
+                                "/images/features/pro-dashboard-timeline.png",
+                                "/images/features/pro-dashboard-payment-plans.png",
+                                "/images/logos/accounting-partners@2x.jpg",
+                                "/images/flags/GB-flag-icon@2x.png",
+                                "/images/flags/AU-flag-icon@2x.png",
+                                "/images/flags/BE-flag-icon@2x.png",
+                                "/images/flags/BE-flag-icon@2x.png",
+                                "/images/flags/BR-flag-icon@2x.png",
+                                "/images/flags/CA-flag-icon@2x.png",
+                                "/images/flags/DE-flag-icon@2x.png",
+                                "/images/flags/ES-flag-icon@2x.png",
+                                "/images/flags/EU-flag-icon@2x.png",
+                                "/images/flags/FR-flag-icon@2x.png",
+                                "/images/flags/IE-flag-icon@2x.png",
+                                "/images/flags/NL-flag-icon@2x.png",
+                                "/images/flags/NZ-flag-icon@2x.png",
+                                "/images/flags/SE-flag-icon@2x.png",
+                                "/images/flags/US-flag-icon@2x.png",
+                                "/images/flags/GB-flag-icon@2x.png",
+                                "/bundle/main-eb80a0890c96194c1536.js"
+                            ]
+                        },
+                        {
+                            "linkText": "Partners",
+                            "linkUrl": "/partners",
+                            "childlinks": [
+                                {
+                                    "linkText": "Examples",
+                                    "linkUrl": "/examples"
+                                },
+                                {
+                                    "linkText": "Contact sales",
+                                    "linkUrl": "/s=partners"
+                                },
+                                {
+                                    "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                                    "linkUrl": "/d0b8b5bca090b7bfb3b1a2b4bcb5a3a3feb3bfbd"
+                                }
+                            ],
+                            "assets": [
+                                "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+                                "/images/partners/partners-map@2x.jpg",
+                                "/images/partners/kashflow-logo@2x.png",
+                                "/images/partners/oauth-illustration@2x.png",
+                                "/images/partners/take-payment-illustration@2x.png",
+                                "/images/partners/teamup-logo@2x.png",
+                                "/images/partners/zuora-logo@2x.png",
+                                "/images/partners/pay-via-mobile-illustration@2x.png",
+                                "/images/partners/partner-logos@2x.png",
+                                "/images/flags/GB-flag-icon@2x.png",
+                                "/images/flags/AU-flag-icon@2x.png",
+                                "/images/flags/BE-flag-icon@2x.png",
+                                "/images/flags/BE-flag-icon@2x.png",
+                                "/images/flags/BR-flag-icon@2x.png",
+                                "/images/flags/CA-flag-icon@2x.png",
+                                "/images/flags/DE-flag-icon@2x.png",
+                                "/images/flags/ES-flag-icon@2x.png",
+                                "/images/flags/EU-flag-icon@2x.png",
+                                "/images/flags/FR-flag-icon@2x.png",
+                                "/images/flags/IE-flag-icon@2x.png",
+                                "/images/flags/NL-flag-icon@2x.png",
+                                "/images/flags/NZ-flag-icon@2x.png",
+                                "/images/flags/SE-flag-icon@2x.png",
+                                "/images/flags/US-flag-icon@2x.png",
+                                "/images/flags/GB-flag-icon@2x.png",
+                                "/bundle/main-eb80a0890c96194c1536.js"
+                            ]
+                        },
+                        {
+                            "linkText": "Pricing",
+                            "linkUrl": "/pricing",
+                            "childlinks": [
+                                {
+                                    "linkText": "Contact sales",
+                                    "linkUrl": "/s=pricing"
+                                },
+                                {
+                                    "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                                    "linkUrl": "/6b030e071b2b0c04080a190f070e181845080406"
+                                }
+                            ],
+                            "assets": [
+                                "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+                                "/images/flags/GB-flag-icon@2x.png",
+                                "/images/flags/AU-flag-icon@2x.png",
+                                "/images/flags/BE-flag-icon@2x.png",
+                                "/images/flags/BE-flag-icon@2x.png",
+                                "/images/flags/BR-flag-icon@2x.png",
+                                "/images/flags/CA-flag-icon@2x.png",
+                                "/images/flags/DE-flag-icon@2x.png",
+                                "/images/flags/ES-flag-icon@2x.png",
+                                "/images/flags/EU-flag-icon@2x.png",
+                                "/images/flags/FR-flag-icon@2x.png",
+                                "/images/flags/IE-flag-icon@2x.png",
+                                "/images/flags/NL-flag-icon@2x.png",
+                                "/images/flags/NZ-flag-icon@2x.png",
+                                "/images/flags/SE-flag-icon@2x.png",
+                                "/images/flags/US-flag-icon@2x.png",
+                                "/images/flags/GB-flag-icon@2x.png",
+                                "/bundle/main-eb80a0890c96194c1536.js"
+                            ]
+                        },
+                        {
+                            "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                            "linkUrl": "/543c31382414333b37352630383127277a373b39"
+                        }
+                    ],
+                    "assets": [
+                        "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+                        "/images/features/pro-dashboard-overview.png",
+                        "/images/features/pro-dashboard-timeline.png",
+                        "/images/features/pro-dashboard-payment-plans.png",
+                        "/images/logos/accounting-partners@2x.jpg",
+                        "/images/flags/GB-flag-icon@2x.png",
+                        "/images/flags/AU-flag-icon@2x.png",
+                        "/images/flags/BE-flag-icon@2x.png",
+                        "/images/flags/BE-flag-icon@2x.png",
+                        "/images/flags/BR-flag-icon@2x.png",
+                        "/images/flags/CA-flag-icon@2x.png",
+                        "/images/flags/DE-flag-icon@2x.png",
+                        "/images/flags/ES-flag-icon@2x.png",
+                        "/images/flags/EU-flag-icon@2x.png",
+                        "/images/flags/FR-flag-icon@2x.png",
+                        "/images/flags/IE-flag-icon@2x.png",
+                        "/images/flags/NL-flag-icon@2x.png",
+                        "/images/flags/NZ-flag-icon@2x.png",
+                        "/images/flags/SE-flag-icon@2x.png",
+                        "/images/flags/US-flag-icon@2x.png",
+                        "/images/flags/GB-flag-icon@2x.png",
+                        "/bundle/main-eb80a0890c96194c1536.js"
+                    ]
+                },
+                {
+                    "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                    "linkUrl": "/d9b1bcb5a999beb6bab8abbdb5bcaaaaf7bab6b4"
+                },
+                {
+                    "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+                    "linkUrl": "/bbd3ded7cbfbdcd4d8dac9dfd7dec8c895d8d4d6"
+                }
+            ],
+            "assets": [
+                "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+                "/guides/images/guide-recurring_payments@2x.jpg",
+                "/guides/images/guide-direct_debit@2x.jpg",
+                "/guides/images/guide-intro_to_direct_debit@2x.jpg",
+                "/guides/images/guide-sepa@2x.jpg",
+                "/guides/images/guide-rfp@2x.jpg",
+                "/guides/images/guide-bg_autogiro@2x.jpg",
+                "/guides/images/post-thumbnails/eliminate-debtors-thumb@2x.png",
+                "/guides/images/post-thumbnails/value-pricing-thumb@2x.png",
+                "/guides/images/post-thumbnails/hospitality-thumb@2x.png",
+                "/guides/images/icons/uk-flag-icon@2x.png",
+                "/guides/images/icons/uk-flag-icon@2x.png",
+                "/guides/images/icons/fr-flag-icon@2x.png",
+                "/guides/images/icons/de-flag-icon@2x.png",
+                "/guides/images/icons/es-flag-icon@2x.png",
+                "/guides/images/icons/nl-flag-icon@2x.png",
+                "/guides/images/icons/se-flag-icon@2x.png",
+                "/guides/assets/js/all.js"
+            ]
+        },
+        {
+            "linkText": "Support",
+            "linkUrl": "/help.gocardless.com"
+        },
+        {
+            "linkText": "Sign in",
+            "linkUrl": "/sign_in",
+            "childlinks": [
+                {
+                    "linkText": "GoCardless",
+                    "linkUrl": "/gocardless.com"
+                },
+                {
+                    "linkText": "@gocardless",
+                    "linkUrl": "/gocardless"
+                }
+            ]
+        },
+        {
+            "linkText": "Learn More",
+            "linkUrl": "/learn-more"
+        },
+        {
+            "linkText": "Sign Up Now",
+            "linkUrl": "/new"
+        },
+        {
+            "linkText": "Blog",
+            "linkUrl": "/blog.gocardless.com"
+        },
+        {
+            "linkText": "[email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */",
+            "linkUrl": "/a8c0cdc4d8e8cfc7cbc9daccc4cddbdb86cbc7c5"
+        }
+    ],
+    "assets": [
+        "//www.googletagmanager.com/gtm.js?id=GTM-PRFKNC",
+        "/images/logos/pro-logos@2x.png",
+        "/images/logos/funding-circle-logo-white.png",
+        "/images/flags/GB-flag-icon@2x.png",
+        "/images/flags/AU-flag-icon@2x.png",
+        "/images/flags/BE-flag-icon@2x.png",
+        "/images/flags/BE-flag-icon@2x.png",
+        "/images/flags/BR-flag-icon@2x.png",
+        "/images/flags/CA-flag-icon@2x.png",
+        "/images/flags/DE-flag-icon@2x.png",
+        "/images/flags/ES-flag-icon@2x.png",
+        "/images/flags/EU-flag-icon@2x.png",
+        "/images/flags/FR-flag-icon@2x.png",
+        "/images/flags/IE-flag-icon@2x.png",
+        "/images/flags/NL-flag-icon@2x.png",
+        "/images/flags/NZ-flag-icon@2x.png",
+        "/images/flags/SE-flag-icon@2x.png",
+        "/images/flags/US-flag-icon@2x.png",
+        "/images/flags/GB-flag-icon@2x.png",
+        "/bundle/main-eb80a0890c96194c1536.js"
+    ]
+}
