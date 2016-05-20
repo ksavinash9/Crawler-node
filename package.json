@@ -1,0 +1,41 @@
+{
+  "name": "nodecrawler",
+  "version": "0.0.0",
+  "description": "Simple Node Crawler",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swarnavinash/Crawler-node"
+  },
+  "keywords": [
+    "Node.js",
+    "Web",
+    "Crawler"
+  ],
+  "author": "Swarn Avinash Kumar",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/swarnavinash/Crawler-node"
+  },
+  "devDependencies": {
+    "jasmine-node": "~1.14.3",
+    "nock": "~0.29.0"
+  },
+  "dependencies": {
+    "cheerio": "~0.15.0",
+    "require": "~0.5.0",
+    "async": "~0.8.0",
+    "util": "~0.10.3",
+    "request": "*",
+    "mocha": "*",
+    "should": "*",
+    "chai": "*",
+    "mocha-sinon": "*",
+    "js2xmlparser": "*",
+    "sinon-chai": "*",
+    "sinon":"*"
+  }
+}
